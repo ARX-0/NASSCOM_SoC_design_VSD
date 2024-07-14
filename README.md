@@ -96,9 +96,12 @@ the libs.tech has technology specific tools that are used in substages lets take
 
 <br>
 <br>
+Go to this path everytime when you want to invoke openalane 
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20152931.png)
 
+use the ``docker`` command and use the ``./flow.tcl -interactive`` so that you can so throught the flow 
+manually 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20161717.png)
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20161323.png)

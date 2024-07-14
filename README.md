@@ -84,9 +84,16 @@ the libs.tech has technology specific tools that are used in substages lets take
 - **CVC**: Performs Circuit Validity Checks.
 
 <br>
-![image](https://github.com/user-attachments/assets/4df76b9c-b2ab-4d8d-b187-9358402e1ecd)
-![image](https://github.com/user-attachments/assets/d7338541-787e-413b-95ea-6308cd3a6939)
-![image](https://github.com/user-attachments/assets/1a92e3cc-7875-4a6a-b566-fa12b3a2bb9c)
+
+<body>
+    <div class="image-row" style="display: flex; justify-content: flex-end; gap: 20px;">
+        <img src="https://github.com/user-attachments/assets/1a92e3cc-7875-4a6a-b566-fa12b3a2bb9c" alt="Image 3" style="max-width: 100px; height: auto;">
+        <img src="https://github.com/user-attachments/assets/d7338541-787e-413b-95ea-6308cd3a6939" alt="Image 2" style="max-width: 100px; height: auto;">
+        <img src="https://github.com/user-attachments/assets/4df76b9c-b2ab-4d8d-b187-9358402e1ecd" alt="Image 1" style="max-width: 100px; height: auto;">
+    </div>
+</body>
+</html>
+
 <br>
 <br>
 

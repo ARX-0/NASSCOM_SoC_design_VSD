@@ -102,11 +102,12 @@ Go to this path everytime when you want to invoke openalane
 
 use the ``docker`` command and use the ``./flow.tcl -interactive`` so that you can so throught the flow 
 manually 
-![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20161717.png)
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20161323.png)
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20161717.png)
+
+If its a success then you will see this in your terminal
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20162810.png)
 

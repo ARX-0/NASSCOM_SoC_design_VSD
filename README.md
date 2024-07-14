@@ -148,3 +148,9 @@ If its a success then you will see this in your terminal
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-14%20141746.png)
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-14%20142658.png)
+
+![image](https://github.com/user-attachments/assets/64e8fdbc-33e1-4538-90f9-77a8bcfd7896)
+
+at this step your synthesis is complete 
+
+![image](https://github.com/user-attachments/assets/50d937a3-95e1-4d55-9059-f20b6e0fc757)

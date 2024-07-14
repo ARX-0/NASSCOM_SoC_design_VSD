@@ -24,16 +24,71 @@ this is the link for the OPENLANE openroad a project by effables (a step taken t
 <br>
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20145459.png)
-<br>
 
+<br>
+<br>
 A process design kit (PDK) is a set of files used within the semiconductor industry to model a fabrication process for the design tools used to design an integrated circuit.
+
 ![image](https://github.com/user-attachments/assets/665287f1-e09f-49f7-834a-999dfe181a35)
+
 <br>
-
+<br>
 Google SkyWater 130 PDK is an open-source toolkit for designing computer chips at the 130nm scale. Developed by Google and SkyWater Technology, it makes chip design accessible to everyone, from students to researchers, and supports innovation by providing essential design resources and compatibility with various design tools.
-
+<br>
+<br>
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20145638.png)
+
+<br>
+
+the libs.tech has technology specific tools that are used in substages lets take a look at what the OpenLane flow has to offer 
+
+## Synthesis
+
+- **yosys/abc**: Perform RTL synthesis and technology mapping.
+- **OpenSTA**: Performs static timing analysis on the resulting netlist to generate timing reports.
+
+## Floorplanning
+
+- **init_fp**: Defines the core area for the macro as well as the rows (used for placement) and the tracks (used for routing).
+- **ioplacer**: Places the macro input and output ports.
+- **pdngen**: Generates the power distribution network.
+- **tapcell**: Inserts welltap and decap cells in the floorplan.
+
+## Placement
+
+- **RePLace**: Performs global placement.
+- **Resizer**: Performs optional optimizations on the design.
+- **OpenDP**: Performs detailed placement to legalize the globally placed components.
+
+## CTS (Clock Tree Synthesis)
+
+- **TritonCTS**: Synthesizes the clock distribution network (the clock tree).
+
+## Routing
+
+- **FastRoute**: Performs global routing to generate a guide file for the detailed router.
+- **TritonRoute**: Performs detailed routing.
+- **OpenRCX**: Performs SPEF extraction.
+
+## Tapeout
+
+- **Magic**: Streams out the final GDSII layout file from the routed def.
+- **KLayout**: Streams out the final GDSII layout file from the routed def as a back-up.
+
+## Signoff
+
+- **Magic**: Performs DRC Checks & Antenna Checks.
+- **KLayout**: Performs DRC Checks.
+- **Netgen**: Performs LVS Checks.
+- **CVC**: Performs Circuit Validity Checks.
+
+<br>
+![image](https://github.com/user-attachments/assets/4df76b9c-b2ab-4d8d-b187-9358402e1ecd)
+![image](https://github.com/user-attachments/assets/d7338541-787e-413b-95ea-6308cd3a6939)
+![image](https://github.com/user-attachments/assets/1a92e3cc-7875-4a6a-b566-fa12b3a2bb9c)
+<br>
+<br>
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20152931.png)
 

@@ -107,6 +107,7 @@ manually
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20161717.png)
 
+
 If its a success then you will see this in your terminal
 
 then invoke openlane package 0.9 using the following command ``package require openlane 0.9``
@@ -116,6 +117,12 @@ to prep your design and make a LEF file
 The technology LEF contains layer information (such as metal layers), while the cell LEF contains cell informations) Silicon  specific files that contribute to our final GDSII (Graphic Design System II file formating)
 
 run the following command ``prep -design picorv32a``
+
+### How to run designs in OpenLane Flow
+
+
+![image](https://github.com/user-attachments/assets/bd882e30-ee73-4c50-9f5f-64539c162dee)
+
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20162810.png)
 
@@ -128,10 +135,6 @@ run the following command ``prep -design picorv32a``
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20173808.png)
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20174305.png)
-
-![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20175222.png)
-
-![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20175528.png)
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20181118.png)
 
@@ -166,3 +169,6 @@ at this step your synthesis is complete
 ![image](https://github.com/user-attachments/assets/50d937a3-95e1-4d55-9059-f20b6e0fc757)
 
 the synthesised netlist can be viewed as such refering the above part automated by yosys 
+
+### Finding the Flop ratio 
+![image](https://github.com/user-attachments/assets/e8561937-7313-430b-ae02-4a9caf43716d)

@@ -172,3 +172,7 @@ the synthesised netlist can be viewed as such refering the above part automated 
 
 ### Finding the Flop ratio 
 ![image](https://github.com/user-attachments/assets/e8561937-7313-430b-ae02-4a9caf43716d)
+
+The general rule of thumb is ***dff_count  / total_number_of_cells***
+
+so by dividiing ***1613/14876 = 0.108429***

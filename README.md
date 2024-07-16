@@ -109,6 +109,14 @@ manually
 
 If its a success then you will see this in your terminal
 
+then invoke openlane package 0.9 using the following command ``package require openlane 0.9``
+
+to prep your design and make a LEF file 
+(What is a LEF file ? (.tlef) and (.lef) 
+The technology LEF contains layer information (such as metal layers), while the cell LEF contains cell informations) Silicon  specific files that contribute to our final GDSII (Graphic Design System II file formating)
+
+run the following command ``prep -design picorv32a``
+
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20162810.png)
 
 ![](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20162850.png)

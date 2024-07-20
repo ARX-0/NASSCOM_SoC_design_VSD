@@ -148,4 +148,12 @@ By dividing: `1613 / 14876 = 0.108429`.
     magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def & 
 
 
-You can view the floorplan as the following 
+You can view the floorplan in magic the following is the console log 
+
+![image](https://github.com/user-attachments/assets/82f784c7-a243-4bd8-8893-f8eb5bb90dd2)
+
+![image](https://github.com/user-attachments/assets/4c0da5a7-16b2-4cd7-a8b4-2174d803b0e5)
+
+
+
+

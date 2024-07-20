@@ -139,3 +139,13 @@ The synthesized netlist can be viewed as shown above, automated by Yosys.
 The general rule of thumb is: `dff_count / total_number_of_cells`.
 
 By dividing: `1613 / 14876 = 0.108429`.
+
+
+## Viewing the floorplan 
+
+![image](https://github.com/user-attachments/assets/cd63a45a-ea51-4fd0-b4a0-591a66d024e4)
+
+    magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs.tech/magic/sky130A.tech lef read ../../tmp/merged.lef def read picorv32a.floorplan.def & 
+
+
+You can view the floorplan as the following 

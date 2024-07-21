@@ -154,6 +154,24 @@ You can view the floorplan in magic the following is the console log
 
 ![image](https://github.com/user-attachments/assets/4c0da5a7-16b2-4cd7-a8b4-2174d803b0e5)
 
+### Zooming in the magic tool to view our floorplan
 
+![image](https://github.com/user-attachments/assets/3ad2ebc1-48a6-4cf2-97dd-276973b1ce0e)
 
+![image](https://github.com/user-attachments/assets/09d568d4-4fbd-4f65-a673-71d1a01d1211)
 
+![image](https://github.com/user-attachments/assets/322c92b3-4997-4b56-8fd5-87d1e6ee9615)
+
+![image](https://github.com/user-attachments/assets/91cfc739-1e60-45af-9dfd-42d011a0e88d)
+
+![image](https://github.com/user-attachments/assets/56c0b0f4-5e05-4579-b5ea-0de958bbe02f)
+
+![image](https://github.com/user-attachments/assets/9635b322-89c8-4725-baa2-f06005cfa9df)
+
+the extreme left end
+
+![Screenshot 2024-07-21 155700](https://github.com/user-attachments/assets/d7fa5c65-b5c2-4e14-a51e-99324c306784)
+
+![Screenshot 2024-07-21 155632](https://github.com/user-attachments/assets/4d3a3e70-5a99-4671-8549-1db869f715df)
+
+![Screenshot 2024-07-21 155608](https://github.com/user-attachments/assets/7c8cdc7d-1bc0-4cc1-8d67-a199f1fc37a6)

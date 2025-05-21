@@ -113,7 +113,7 @@ A LEF file contains information about the layers and cells used in the design. R
 ![Design Screenshot 10](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20181937.png)
 ![Design Screenshot 11](https://github.com/ARX-0/NASSCOM_SoC_design_VSD/blob/main/images/Screenshot%202024-07-13%20182707.png)
 
-#### i did calculate the T flip flop ratios for the AES for fun :) 
+### I did calculate the T flip flop ratios for the AES for fun :) 
 
 ![image](https://github.com/user-attachments/assets/b9c56c71-e01f-4be0-ae73-5a52ffcec09e)
 

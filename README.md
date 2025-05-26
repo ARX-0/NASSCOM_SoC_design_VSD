@@ -204,3 +204,22 @@ the extreme left end
 ![Screenshot 2024-07-21 155608](https://github.com/user-attachments/assets/7c8cdc7d-1bc0-4cc1-8d67-a199f1fc37a6)
 
 ## Beyond this I came to understand what is being done and I started to experiment with a different design because picorv32a stopped working for some reason, I took up the aes core.
+
+I was runing into a problem where i was not able to open the aes placement. It was only giving me the floorplan report 
+the lesson i learnt is that i need to perfectly move with the file organisation and be on point with the file navigation 
+
+![image](https://github.com/user-attachments/assets/0435d3f9-4680-40ed-bfa7-8fb9d234c657)
+
+### Here is the placement of the cells for you :) 
+
+![image](https://github.com/user-attachments/assets/eddbe6e3-c27a-4c5d-ae64-84736e20a81e)
+
+![image](https://github.com/user-attachments/assets/2037c8c6-d785-4aa3-9e60-421f90d82f69)
+
+![image](https://github.com/user-attachments/assets/cb4415ad-b73d-4999-9429-7d556cf49743)
+
+![image](https://github.com/user-attachments/assets/3e39e3f8-81ad-4d70-a110-26fec7b89701)
+
+
+
+

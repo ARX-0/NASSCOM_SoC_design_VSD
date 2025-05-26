@@ -220,6 +220,6 @@ the lesson i learnt is that i need to perfectly move with the file organisation 
 
 ![image](https://github.com/user-attachments/assets/3e39e3f8-81ad-4d70-a110-26fec7b89701)
 
-
+### and yes those are the placed cells openlane at the moment dosent create the PDN network when in the `run_floorplan` stage
 
 

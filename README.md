@@ -6,6 +6,25 @@ This repo documents my very first shot at Physical Design using OpenLane.
 
 Follow the official [OpenLane Documentation](https://openlane.readthedocs.io/en/latest/).
 
+
+the priority of tcl files 
+
+**your_design inside the design folder** 
+1). sky130A....tcl
+2). config.tcl
+3). config.tcl {in the configuration folder i.e default} 
+
+one over rides the other
+
+
+go with the flow of
+
+run_synthesis
+run_floorplan
+run_placement
+.....
+
+
 The official OpenLane flow is shown in the flow diagram below:
 
 ![OpenLane Flow](https://github.com/user-attachments/assets/7a5a6643-13c3-4857-8455-b2395261e79d)
@@ -181,3 +200,5 @@ the extreme left end
 ![Screenshot 2024-07-21 155632](https://github.com/user-attachments/assets/4d3a3e70-5a99-4671-8549-1db869f715df)
 
 ![Screenshot 2024-07-21 155608](https://github.com/user-attachments/assets/7c8cdc7d-1bc0-4cc1-8d67-a199f1fc37a6)
+
+## Beyond this I came to understand what is being done and I started to experiment with a different design because picorv32a stopped working for some reason, I took up the aes core.

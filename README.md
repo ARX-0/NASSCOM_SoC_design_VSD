@@ -11,7 +11,9 @@ the priority of tcl files
 
 **your_design inside the design folder** 
 1). sky130A....tcl
+
 2). config.tcl
+
 3). config.tcl {in the configuration folder i.e default} 
 
 one over rides the other
@@ -19,9 +21,9 @@ one over rides the other
 
 go with the flow of
 
-run_synthesis
-run_floorplan
-run_placement
+run_synthesis ->
+run_floorplan -> 
+run_placement -> 
 .....
 
 

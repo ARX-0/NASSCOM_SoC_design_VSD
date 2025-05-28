@@ -222,4 +222,22 @@ the lesson i learnt is that i need to perfectly move with the file organisation 
 
 ### and yes those are the placed cells openlane at the moment dosent create the PDN network when in the `run_floorplan` stage
 
+### to change the pacement of the IO cells closer `set ::env(FP_IO_MODE) 2` "0 ,1 ,2" are the options 2 with the exterme closeness 
+
+> Normal Hungarian IO placement that aint evenly placed anymore
+
+![image](https://github.com/user-attachments/assets/34f58c9c-2ffa-4d58-a8e9-bd23f1195e2b)
+
+THE CHANGES IN THE FLOW CAN BE DONE IN THE FOLLOWING .tcl FILE
+
+![image](https://github.com/user-attachments/assets/500898b9-4275-4a88-a5fb-48ff6221d292)
+
+JUST COPPY THE REQUIRED PARAMETER IN THAT AND PASTE IT IN THE OPENLANE FLOW AND EDIT THE NUMBERS AND PROCEED :) 
+
+THIS IS WHAT I GOT FOR THE AES CORE
+
+![image](https://github.com/user-attachments/assets/80225a58-2189-4624-b5be-4ef1381e768b)
+
+
+
 

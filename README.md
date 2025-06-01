@@ -239,5 +239,21 @@ THIS IS WHAT I GOT FOR THE AES CORE
 ![image](https://github.com/user-attachments/assets/80225a58-2189-4624-b5be-4ef1381e768b)
 
 
+## From the inverter to the higer levels(opening our inverter after cloning the repo)
+
+![image](https://github.com/user-attachments/assets/4e5b2f47-1fa4-490a-9ba9-283a734ba91f)
+
+![image](https://github.com/user-attachments/assets/aac61b99-052d-4130-9bf3-435ffd99633e)
+
+### what commands and exploration....
+
+![image](https://github.com/user-attachments/assets/7df067b0-f956-4229-8467-584275f3c71e)
+
+![image](https://github.com/user-attachments/assets/b24b7bff-0265-4c9e-ae6d-53be1968625a)
+
+![image](https://github.com/user-attachments/assets/0c442976-063e-4ad0-9969-f5c0bca7590d)
+
+
+
 
 

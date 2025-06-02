@@ -253,7 +253,8 @@ THIS IS WHAT I GOT FOR THE AES CORE
 
 ![image](https://github.com/user-attachments/assets/0c442976-063e-4ad0-9969-f5c0bca7590d)
 
+![image](https://github.com/user-attachments/assets/e0a60980-9566-41a7-a1fc-1adce4285e00)
 
-
+![image](https://github.com/user-attachments/assets/3ecb0c86-746b-4aa0-b8e8-5ceb6e88b190)
 
 

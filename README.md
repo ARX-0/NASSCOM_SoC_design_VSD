@@ -266,3 +266,8 @@ this is what i got :)
 ![image](https://github.com/user-attachments/assets/eac36f5f-6760-4f51-8245-7beba0629f15)
 
 
+### Learing DRCs with Timothy Edwards
+
+![image](https://github.com/user-attachments/assets/228aa7ff-3923-4d86-b1b8-56334bd025bb)
+
+![image](https://github.com/user-attachments/assets/8db56074-f21a-4ee1-b032-9bbcb0e38dc1)

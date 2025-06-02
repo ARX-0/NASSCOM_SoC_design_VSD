@@ -263,5 +263,6 @@ THIS IS WHAT I GOT FOR THE AES CORE
 
 this is what i got :) 
 
+![image](https://github.com/user-attachments/assets/eac36f5f-6760-4f51-8245-7beba0629f15)
 
 
